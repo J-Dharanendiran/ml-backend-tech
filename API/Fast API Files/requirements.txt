@@ -1,0 +1,11 @@
+## Requirements
+
+- Python 3.12.7
+- FastAPI 0.141.1
+- Pydantic 2.13.5
+- Uvicorn 0.53.0
+
+## Runs this on your terminal
+
+python --version
+pip install -r requirements.txt
